@@ -46,7 +46,7 @@ QR CODE：
 
 QR CODE：
 
-![西大门入口](./In-QR_Code.png#pic_center)
+![西大门入口](./In-QR_Code_ly.png#pic_center)
 
 
 
@@ -62,10 +62,45 @@ QR CODE：
 
 
 
-![西大门出口](./Out-QR_Code.png#pic_center)
+![西大门出口](./Out-QR_Code_ly.png#pic_center)
 
 
 
 
 
 - Source CODE：[https://github.com/ReCclay/UESTC-OUT_20211109](https://github.com/ReCclay/UESTC-OUT_20211109)
+
+
+---
+
+## OTHERS
+
+
+
+
+
+QR CODE：
+
+![西大门入口](./In-QR_Code_others.png#pic_center)
+
+
+
+
+
+- Source CODE：[https://recclay.github.io/UESTC-IN_others/](https://recclay.github.io/UESTC-IN_others/)
+
+
+
+
+
+
+
+
+
+![西大门出口](./Out-QR_Code_others.png#pic_center)
+
+
+
+
+
+- Source CODE：[https://recclay.github.io/UESTC-OUT_others/](https://recclay.github.io/UESTC-OUT_others/)
