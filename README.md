@@ -4,4 +4,41 @@ UESTC-QR_CODE
 
 
 
-![西大门入口](https://github.com/ReCclay/UESTC-QR_CODE/blob/master/%E8%A5%BF%E5%A4%A7%E9%97%A8%E5%85%A5%E5%8F%A3.png)
+
+
+
+QR CODE：
+
+![西大门入口](./In-QR_Code.png)
+
+
+
+
+
+Source CODE：[https://github.com/ReCclay/UESTC-IN_20211109](https://github.com/ReCclay/UESTC-IN_20211109)
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+![西大门出口](./Out-QR_Code.png)
+
+
+
+
+
+Source CODE：[https://github.com/ReCclay/UESTC-OUT_20211109](https://github.com/ReCclay/UESTC-OUT_20211109)
