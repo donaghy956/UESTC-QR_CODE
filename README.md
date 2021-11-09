@@ -9,7 +9,7 @@ UESTC-QR_CODE
 
 QR CODE：
 
-![西大门入口](./In-QR_Code.png)
+![西大门入口](./In-QR_Code.png#pic_center)
 
 
 
@@ -35,7 +35,7 @@ Source CODE：[https://github.com/ReCclay/UESTC-IN_20211109](https://github.com/
 
 
 
-![西大门出口](./Out-QR_Code.png)
+![西大门出口](./Out-QR_Code.png#pic_center)
 
 
 
